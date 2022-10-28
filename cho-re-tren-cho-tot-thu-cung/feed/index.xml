@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lenangthu.github.io/mywordpress</link>
+	Các phản hồi luận về: cho tot thu cung: 10 giống chó giá cực rẻ chỉ có trên cho tot thu cung.	</title>
+	<atom:link href="http://localhost/myproject/wordpress/cho-re-tren-cho-tot-thu-cung/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lenangthu.github.io/mywordpress/cho-re-tren-cho-tot-thu-cung/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Fri, 28 Oct 2022 06:53:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

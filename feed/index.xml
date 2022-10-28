@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lenangthu.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 30 Sep 2022 03:58:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Oct 2022 06:53:34 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,426 +20,90 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Tour</title>
-		<link>https://lenangthu.github.io/mywordpress/2022/09/30/tour/</link>
+		<title>cho tot thu cung: 10 giống chó giá cực rẻ chỉ có trên cho tot thu cung.</title>
+		<link>https://lenangthu.github.io/mywordpress/cho-re-tren-cho-tot-thu-cung/</link>
+					<comments>https://lenangthu.github.io/mywordpress/cho-re-tren-cho-tot-thu-cung/#respond</comments>
 		
 		<dc:creator><![CDATA[lenangthu]]></dc:creator>
-		<pubDate>Fri, 30 Sep 2022 00:50:17 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 08:59:11 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://lenangthu.github.io/mywordpress/?page_id=657</guid>
+		<guid isPermaLink="false">https://lenangthu.github.io/mywordpress/?p=79</guid>
 
-					<description><![CDATA[Slide hình ảnh Previous Next Map Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Map Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Map Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-page" data-elementor-id="657" class="elementor elementor-657">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-08be410 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="08be410" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c76954a" data-id="c76954a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6cddebc elementor-widget elementor-widget-heading" data-id="6cddebc" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Slide hình ảnh</h2>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-19a4ee7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19a4ee7" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bbd89dc" data-id="bbd89dc" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-ee10a65 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="ee10a65" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-da811cc" data-id="da811cc" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e982346 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="e982346" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
-.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
-			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="">
-				<div class="swiper-wrapper elementor-slides">
-										<div class="elementor-repeater-item-2dd93a3 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">		<div data-elementor-type="page" data-elementor-id="686" class="elementor elementor-686">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-397259c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="397259c" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44dd9d5" data-id="44dd9d5" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-7a710fc elementor-section-height-min-height elementor-section-full_width elementor-section-height-default" data-id="7a710fc" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b016032 animated-slow" data-id="b016032" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_delay&quot;:500}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-4373851 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="4373851" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				For Sale						</div>
-				</div>
-				<div class="elementor-element elementor-element-bf87b29 eael-dual-header-content-align-left elementor-widget__width-auto elementor-absolute elementor-widget-tablet__width-auto elementor-widget elementor-widget-eael-dual-color-header" data-id="bf87b29" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">7,000,000 VNĐ</span> <span></span></h2>
-				<span class="subtext"></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-09f1a9e elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="09f1a9e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://travel.com.vn/tourNDSGN3398-074-180922VU-D/bay-cung-vietravel-airlines-%7C-da-nang-hue-dam-lap-an-la-vang-dong-phong-nha-thien-duong-kdl-ba-na-cau-vang-son-tra-hoi-an-da-nang-khach-san-4sao-tron-tour.aspx" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Xem chi tiết</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c3900ae eael-dual-header-content-align-center elementor-widget elementor-widget-eael-dual-color-header" data-id="c3900ae" data-element_type="widget" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">Tour</span> <span>Hang Sơn Doong</span></h2>
-				<span class="subtext"><p>3 ngày 2 đêm cho 2 người</p></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1689edb animated-slow" data-id="1689edb" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_delay&quot;:1000}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-0095e7a elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="0095e7a" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							For Sale						</div>
-				</div>
-				<div class="elementor-element elementor-element-9b4dfb1 eael-dual-header-content-align-left elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-eael-dual-color-header" data-id="9b4dfb1" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">1,000,000 VNĐ</span> <span></span></h2>
-				<span class="subtext"><p><strong>Cho 1 người</strong></p></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c4d960b elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="c4d960b" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://travel.com.vn/tourNDSGN828-023-081022XE-D-F/hanh-trinh-xanh-can-gio-tau-cao-toc-kham-pha-kdl-sinh-thai-dan-xay-vam-sat.aspx" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Xem chi tiết</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-63a8447 eael-dual-header-content-align-center elementor-widget elementor-widget-eael-dual-color-header" data-id="63a8447" data-element_type="widget" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">Tour</span> <span>Cần Giờ</span></h2>
-				<span class="subtext"><p>Trong ngày</p></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		</div></div></div></div><div class="elementor-repeater-item-afe0e0b swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">		<div data-elementor-type="page" data-elementor-id="809" class="elementor elementor-809">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-2d3e58e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2d3e58e" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63e1ca6" data-id="63e1ca6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-83abba9 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="83abba9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-wider">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-adccb97 animated-slow" data-id="adccb97" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-e8be1f8 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="e8be1f8" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							For Sale 						</div>
-				</div>
-				<div class="elementor-element elementor-element-df19333 eael-dual-header-content-align-left elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-eael-dual-color-header" data-id="df19333" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">3,520,000 VNĐ</span> <span></span></h2>
-				<span class="subtext"></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-17bffa4 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="17bffa4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://travel.com.vn/tourNDSGN802-093-290922VU-D/thoa-thich-vui-choi-tai-vinwonder-safari-world-nghi-duong-resort-5-sao-radisson-blu-phu-quoc.aspx" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Xem chi tiết</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-9f1ce0a eael-dual-header-content-align-center elementor-widget elementor-widget-eael-dual-color-header" data-id="9f1ce0a" data-element_type="widget" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">Tour</span> <span>Phú Quốc</span></h2>
-				<span class="subtext"><p>3 ngày 2 đêm cho 2 người</p></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a37d245" data-id="a37d245" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_delay&quot;:0}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-b7f0b11 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="b7f0b11" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							For Sale						</div>
-				</div>
-				<div class="elementor-element elementor-element-793e92d eael-dual-header-content-align-center elementor-widget elementor-widget-eael-dual-color-header" data-id="793e92d" data-element_type="widget" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">Tour</span> <span>Vịnh Hạ Long</span></h2>
-				<span class="subtext"><p>2 ngày 1 đêm cho 2 người</p></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1f435da eael-dual-header-content-align-left elementor-widget__width-auto elementor-absolute elementor-widget-tablet__width-auto elementor-widget elementor-widget-eael-dual-color-header" data-id="1f435da" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">5,750,000 VNĐ</span> <span></span></h2>
-				<span class="subtext"></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c5c2934 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="c5c2934" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://travel.com.vn/tourNDSGN1031-012-300922QH-D/ha-noi-vinh-ha-long-chua-bai-dinh-trang-an-tuyet-tinh-coc-khach-san-4-sao.aspx" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Xem chi tiết</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		</div></div></div></div><div class="elementor-repeater-item-e355296 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">		<div data-elementor-type="page" data-elementor-id="830" class="elementor elementor-830">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-71f0cf9 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="71f0cf9" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-25bac80" data-id="25bac80" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-9c84219 elementor-section-height-min-height elementor-section-full_width elementor-section-height-default" data-id="9c84219" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-487709e animated-slow" data-id="487709e" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_delay&quot;:500}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-21a5d5e elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="21a5d5e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							For Sale						</div>
-				</div>
-				<div class="elementor-element elementor-element-fd03c32 eael-dual-header-content-align-left elementor-widget__width-auto elementor-absolute elementor-widget-tablet__width-auto elementor-widget elementor-widget-eael-dual-color-header" data-id="fd03c32" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">7,000,000 VNĐ</span> <span></span></h2>
-				<span class="subtext"></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-4eb1972 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="4eb1972" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://travel.com.vn/tourNDSGN3398-074-180922VU-D/bay-cung-vietravel-airlines-%7C-da-nang-hue-dam-lap-an-la-vang-dong-phong-nha-thien-duong-kdl-ba-na-cau-vang-son-tra-hoi-an-da-nang-khach-san-4sao-tron-tour.aspx" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Xem chi tiết</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-e36c0aa eael-dual-header-content-align-center elementor-widget elementor-widget-eael-dual-color-header" data-id="e36c0aa" data-element_type="widget" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">Tour</span> <span>Đà Lạt</span></h2>
-				<span class="subtext"><p>3 ngày 2 đêm cho 2 người</p></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ad5c760 animated-slow" data-id="ad5c760" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_delay&quot;:1000}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<div class="elementor-element elementor-element-856c0b9 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="856c0b9" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							For Sale						</div>
-				</div>
-				<div class="elementor-element elementor-element-3759ae3 eael-dual-header-content-align-left elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-eael-dual-color-header" data-id="3759ae3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">1,000,000 VNĐ</span> <span></span></h2>
-				<span class="subtext"><p><strong>Cho 1 người</strong></p></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-2ca7713 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="2ca7713" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://travel.com.vn/tourNDSGN828-023-081022XE-D-F/hanh-trinh-xanh-can-gio-tau-cao-toc-kham-pha-kdl-sinh-thai-dan-xay-vam-sat.aspx" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Xem chi tiết</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-8c010b2 eael-dual-header-content-align-center elementor-widget elementor-widget-eael-dual-color-header" data-id="8c010b2" data-element_type="widget" data-widget_type="eael-dual-color-header.default">
-				<div class="elementor-widget-container">
-			
-		        <div class="eael-dual-header">
-				<h2 class="title"><span  class="lead solid-color">Tour</span> <span>Đà Nẵng</span></h2>
-				<span class="subtext"><p>Trong ngày</p></span>
-				</div>
-	
-		
-		
-		
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		</div></div></div></div>				</div>
-															<div class="swiper-pagination"></div>
-																<div class="elementor-swiper-button elementor-swiper-button-prev">
-							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
-						</div>
-						<div class="elementor-swiper-button elementor-swiper-button-next">
-							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
-						</div>
-												</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-edcadc9 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="edcadc9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9e1195a" data-id="9e1195a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-0d0c80f elementor-section-full_width animated-slow elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="0d0c80f" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-						<div class="elementor-container elementor-column-gap-custom">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8f2c8c3 elementor-invisible" data-id="8f2c8c3" data-element_type="column" data-settings="{&quot;motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0eddc11 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="0eddc11" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.4 - 31-08-2022 */
-.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="150" height="150" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/09/Map-Marker-300x300-1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Map</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-</p></div></div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2ce15f5" data-id="2ce15f5" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9fed2f7 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="9fed2f7" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="150" height="150" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/09/Worldwide-Location-300x300-1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Map</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-</p></div></div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-dfca9ed" data-id="dfca9ed" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-164f34a elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="164f34a" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="150" height="150" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/09/Hot-Air-Balloon-300x300-1-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Map</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-</p></div></div>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
+					<description><![CDATA[Có thể nói rằng chó là loại động vật dễ nuôi cho tot thu cung và thân thuộc trong đời sống con người. Ngày nay, nhu cầu nuôi chó của mọi người ngày càng tăng cao. Tuy nhiên, không phải ai cũng có điều kiện để nuôi những giống chó quý, đắt tiền. Có rất [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Có thể nói rằng chó là loại động vật dễ nuôi cho tot thu cung và thân thuộc trong đời sống con người. Ngày nay, nhu cầu nuôi chó của mọi người ngày càng tăng cao. Tuy nhiên, không phải ai cũng có điều kiện để nuôi những giống chó quý, đắt tiền. Có rất nhiều giống chó tuy rẻ nhưng vẫn rất hữu ích. Sau đây là các giống chó giá cực rẻ chỉ có trên cho tot thu cung.</p>
+<h2><a href="https://lenangthu.github.io/mywordpress/cua-hang/" target="_blank" rel="noopener">1.Chihuahua:</a></h2>
+<p>Những chú chó Chihuahua quý nhất thường có trọng lượng nhỏ hơn 1,3 kg. Những con này có thể đứng gọn trong lòng bàn tay của người lớn. Chihuahua là loại chó làm bầu bạn rất phổ biến.Những chú chó Chihuahua quý nhất thường có trọng lượng nhỏ hơn 1,3 kg. Những con này có thể đứng gọn trong lòng bàn tay của người lớn. Chihuahua là loại chó làm bầu bạn rất phổ biến.<span style="font-size: 16px;">(Cre:Wikipedia)</span></p>
+<p><img loading="lazy" class="alignnone" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-teacup-chihuahua-300x207-1.jpg" alt="cho tot thu cung chihuahua" width="300" height="207" /></p>
+<p>&nbsp;</p>
+<p>Chihuahua được rất nhiều người yêu thích trên. Giống chó này có ngoại hình rất độc đáo. Chúng thuộc giống chó nhỏ nhất thế giới,trên cho tot thu cung mỗi chú chó chưa nặng đến 1,3kg. Chó Chihuahua thích hợp nuôi làm chó cảnh, để chăm sóc và bầu bạn. Hiện nay, giống chó Chihuahua có giá dao động không vượt quá 3 triệu. Phù hợp với cả những người có tài chính hạn hẹp. Hãy đến xem cho tot thu cung ngay</p>
+<h2>2.Poodle:</h2>
+<p>&nbsp;</p>
+<p style="text-align: left;"><em>Chó Poodle được biết đến là một chú chó săn vịt lông dài, xoăn</em></p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><em> vô cùng đáng yêu. Ngay từ lần đầu tiên Poodle đã thu hút người khác bởi ngoại hình xinh xắn và sự sang chảnh của mình. Chính vì vậy, những chú Poodle này ngày càng được ưa chuộng và nuôi thịnh hành </em><em>trên toàn thế giới.hó Poodle được biết đến là một chú chó săn vịt lông dài, xoăn vô cùng đáng yêu. Ngay từ lần đầu tiên Poodle đã thu hút người khác bởi ngoại hình xinh xắn và sự sang chảnh của mình. Chính vì vậy, những chú Poodle này ngày càng được ưa chuộng và nuôi thịnh hành(<strong>cho tot thu cung o hue</strong>).</em></p>
+<p><em><img loading="lazy" class="alignnone" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-poodlenaudo-300x200.jpg" alt="cho tot thu cung poodle" width="300" height="200" /></em></p>
+<p>&nbsp;</p>
+<p dir="ltr">Hiện nay,<em> Poodle</em> được nhập từ nhiều nguồn khác nhau. Như chó nhà đẻ, chó nhập nước ngoài hay thậm chí là chó lậu. Vì thế giá của chúng sẽ khác nhau (cho tot thu cung soc trang). Cụ thể giá bán của các bé<em> Poodle trên cho tot thu cung</em> sẽ dựa vào nguồn gốc của chúng, cụ thể là có giá từ 5 &#8211; 7 triệu đồng.</p>
+<h2>3.Husky:</h2>
+<p>&nbsp;</p>
+<p>Chó Husky là tên gọi chung cho một loại chó được sử dụng ở các vùng phía bắc, khác biệt với các loại chó kéo xe trượt tuyết khác bởi chó Husky còn được nuôi với vai trò là một vật nuôi và các nhóm hoạt động nhằm tìm kiếm chủ cho những con chó đua và chó kéo xe trượt tuyết về hưu.(Cre: Wikipedia).<img loading="lazy" class="alignnone" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/phan-biet-cho-alaska-lai-300x224.jpg" alt="cho tot thu cung husky" width="300" height="224" /></p>
+<p>&nbsp;</p>
+<p>Husky có hai lớp lông dày và ấm để chống chọi lại mùa đông lạnh giá. Lớp lông cứng bên ngoài và lớp lông tơ mềm bên trong. Lớp lông ngoài có chức năng chống nước, tuyết, và ngăn cản gió lạnh thổi vào cơ thể. Lớp lông bên trong như một chiếc áo bông dày giữ nhiệt và làm ấm cơ thể.(<em><strong>cho tot thu cung tphcm</strong></em>)<br />
+Bạn đã biết gì về những chú chó được mệnh danh là “thánh biểu cảm” này chưa ? Hãy cùng  tìm hiểu trong cho tot thu cung nhé!<sup id="cite_ref-sfgate_4-0"></sup></p>
+<h2>4. Yorkshire:</h2>
+<p>&nbsp;</p>
+<p>Chó Yorkshire hay Yorkie (tên đầy đủ là Yorkshire Terrier) làgiống chó sục có nguồn gốc từ Anh quốc. Cái tên Yorkshire được đặt theo nơi phát hiện ra chúng là bang Yorkshire, Vương quốc Anh. Ban đầu, chó Yorkshire được sử dụng để bắt chuột trong các hầm mỏ.<img loading="lazy" class="alignnone" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-yorkshire-15-300x200.jpg" alt="cho tot thu cung yorkshire" width="300" height="200" /></p>
+<p>&nbsp;</p>
+<p>Là giống chó cảnh, Yorkshire Terrier thường được chọn làm thú cưng nuôi trong nhà. Chúng sở hữu vẻ đẹp vô cùng kiêu sa, sang chảnh làm xiêu lòng rất nhiều người. Một thân hình nhỏ nhắn, xinh xắn chỉ cao tới khoảng 23cm, nặng 3.2kg.</p>
+<p><img loading="lazy" class="alignleft wp-image-1072 size-full" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-yorkshire-7-300x234-1.jpg" alt="cho tot thu cung yorkshire2" width="300" height="234" />Trên cho tot thu cung loai chó này chỉ có giá từ 7-10 triệu đồng nhưng vẫn được tiêm phòng đầy đủ trước khi bán cho quí khách.</p>
+<p>Ngoài ra, ở còn có ở  <strong><em>chợ tốt thú cưng cần thơ</em></strong></p>
+<p>&nbsp;</p>
+<h2>5. Pitbull:</h2>
+<p>Chúng là giống chó được chọn giống từ loại chó abcdef và chó ghiklm. Đây là giống chó hiếu chiến, bền bỉ, gan lỳ<br />
+Là giống chó nhập ngoại có nguồn gốc từ Mỹ, đặc tính rất hung dữ và hiếu chiến.<sup id="cite_ref-6"></sup>Dòng chó này có nguồn gốc từ châu Mỹ và đang dần được nuôi phổ biến ở Việt Nam.Pitbull được xem là chúa tể của các loài chó chọi.(<strong><em>chợ tốt thú cưng đồng nai</em></strong>).Có nguồn gốc từ Mỹ, có trọng lượng trung bình từ 30 – 40 kg, trông rất dũng mãnh và sẵn sàng tử chiến khi nhận được lệnh của chủ nhân.(cre:wikipedia).<sup id="cite_ref-9"></sup></p>
+<p>Chó Pitbull lai thường có giá khá rẻ, chỉ từ 900.000 đến 4.000.000 VNĐ. Đây là mức giá phù hợp với những bạn điều kiện kinh tế chưa vững vàng mà vẫn muốn được sở hữu loài Pitbull này.</p>
+<p><img loading="lazy" class="alignnone wp-image-1018 size-medium" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/pitbull-nau-300x232.jpg" alt="cho tot thu cung pitbull" width="300" height="232" srcset="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/pitbull-nau-300x232.jpg 300w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/pitbull-nau-416x321.jpg 416w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/pitbull-nau.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Tuy nhiên, chó Pitbull được nhập khẩu từ Mỹ trên cho tot thu cung  thường được nhập về trang trại để nhân giống nên có giá khoảng 3-6 triệu đồng.</p>
+<p>&nbsp;</p>
+<h2>6. Corgi:</h2>
+<p>&nbsp;</p>
+<p>Giống chó Corgi (hay còn được biết đến với tên gọi khác là Corgi Welsh), là giống chó cảnh dễ thương nhất Thế Giới. Chúng có nguồn gốc từ xứ Wales, Vương quốc Anh. Corgi luôn dẫn đầu danh sách những giống chó được nuôi phổ biến nhất trên Thế Giới cũng như tại Việt Nam.</p>
+<p><img loading="lazy" class="alignright wp-image-985" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-corgi-an-theo-tung-giai-doan-300x188.jpg" alt="cho tot thu cung" width="373" height="234" srcset="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-corgi-an-theo-tung-giai-doan-300x188.jpg 300w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-corgi-an-theo-tung-giai-doan-416x260.jpg 416w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-corgi-an-theo-tung-giai-doan.jpg 599w" sizes="(max-width: 373px) 100vw, 373px" /></p>
+<p>Tại Việt Nam, vào khoảng năm 2010, Corgi mới bắt đầu xuất hiện và du nhập. Chúng không hề bị lép vế so với các giống chó cảnh khác.(<em><strong><a href="https://lenangthu.github.io/mywordpress/cua-hang/" target="_blank" rel="noopener">cho tot thu cung o</a> hue</strong>).</em></p>
+<p>Chó Corgi thông thường có giá từ 10- 17 triệu đồng tùy thuộc vào độ đẹp, màu sắc, độ thuần chủng, các giấy chứng nhận đi kèm.Tuy nhiên trên &#8220;cho tot thu cung&#8221; chỉ có giá từ 5-7 triệu đồng.</p>
+<p>&nbsp;</p>
+<h2>7. Alaska:</h2>
+<p>chó Alaska đã được phổ biến trên toàn cầu và trở thành một trong những loài vật nuôi được nhiều người yêu thích nhất đồng thời vẫn giữ vai trò là “kẻ kéo xe vĩ đại” trên các con đường tuyết. Có thể nói, hiếm loài chó nào có bề dày lịch sử cùng quá trình tồn tại mạnh mẽ như Alaska.<img loading="lazy" class="alignnone size-medium wp-image-1060" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/hinh-anh-gia-cho-giant-alaska-300x206.jpg" alt="" width="300" height="206" srcset="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/hinh-anh-gia-cho-giant-alaska-300x206.jpg 300w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/hinh-anh-gia-cho-giant-alaska-416x286.jpg 416w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/hinh-anh-gia-cho-giant-alaska.jpg 620w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Giá chó Alaska được lớn lên tại Việt Nam thường thấp hơn các giống chó Alaska đến từ Thái Lan hay Indonesia và các nước châu Âu. Chó Alaska theo màu cũng là một trong những yếu tố để định giá loại chó này. Tuy nhiên, mức giá chung khi mua <span data-css="tve-u-17180eff1b0">chó Alaska</span> thuần chủng là từ 1 đến 2 triệu.</p>
+<h2>8.Pug:</h2>
+<p>Pug, hay thường được gọi là chó mặt xệ, là giống chó thuộc nhóm chó cảnh có nguồn gốc từ Trung Quốc, chúng có một khuôn mặt nhăn, mõm ngắn, và đuôi xoăn. Giống chó này có bộ lông mịn, bóng, có nhiều màu sắc nhưng phổ biến nhất là màu đen và nâu vàng. Cơ thể của Pug nhỏ gọn hình vuông với các cơ bắp rất phát triển.</p>
+<p>Trên cho tot thu cung giá bán cho giống chó  này dao động từ 2-3 triệu.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-1093" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-pug-mat-xe-300x169.jpg" alt="cho tot thu cung pug" width="300" height="169" srcset="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-pug-mat-xe-300x169.jpg 300w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-pug-mat-xe-416x234.jpg 416w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-pug-mat-xe.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&nbsp;</p>
+<h2>9. Pitbull con:</h2>
+<p>Chúng là giống chó được chọn giống từ loại chó abcdef và chó ghiklm. Đây là giống chó hiếu chiến, bền bỉ, gan lỳ</p>
+<p>Là giống chó nhập ngoại có nguồn gốc từ Mỹ, đặc tính rất hung dữ và hiếu chiến.<sup id="cite_ref-6"></sup>Dòng chó này có nguồn gốc từ châu Mỹ và đang dần được nuôi phổ biến ở Việt Nam.Pitbull được xem là chúa tể của các loài chó chọi.(<strong><em>chợ tốt thú cưng đồng nai</em></strong>).Có nguồn gốc từ Mỹ, có trọng lượng trung bình từ 30 – 40 kg, trông rất dũng mãnh và sẵn sàng tử chiến khi nhận được lệnh của chủ nhân.(cre:wikipedia).</p>
+<p>Chó pitbull con trên cho tot thu cung có giá chưa đến 1 triệu đồng cho 1 con từ 2 -3 kg.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-1019" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/pitbull-con-300x214.jpg" alt="cho tot thu cung pitbull-con" width="300" height="214" srcset="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/pitbull-con-300x214.jpg 300w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/pitbull-con-416x297.jpg 416w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/pitbull-con.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&nbsp;</p>
+<p><strong>Lưu ý:</strong> Tuyệt đối không cho chó con ăn các đồ ăn cứng như xương lợn, gà, cá…, các loại thức ăn từ nội tạng động vật và đồ ăn cay nóng, ôi thiu. Ngay khi thấy Poodle có các triệu chứng bất thường như buồn nôn, bỏ ăn, lờ đờ, tiêu chảy, lập tức dừng cho ăn và liên lạc ngay với bác sĩ thú y để có phương án chẩn đoán và chữa trị kịp thời.</p>
+<p>&nbsp;</p>
+<h2>10.Poodle con:</h2>
+<p>&nbsp;</p>
+<p><em>Chó Poodle được biết đến là một chú chó săn vịt lông dài, xoăn vô cùng đáng yêu. Ngay từ lần đầu tiên Poodle đã thu hút người khác bởi ngoại hình xinh xắn và sự sang chảnh của mình. Chính vì vậy, những chú Poodle này ngày càng được ưa chuộng và nuôi thịnh hành</em></p>
+<p>Giá poodle con khá rẻ chỉ từ 500 ngàn đến 1 triệu. Tuy nhiên sức đề kháng còn yếu dù đã được tiêm chủng đầy đủ.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-952" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-poodle-300x199.png" alt="cho tot thu cung poodle-con" width="300" height="199" srcset="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-poodle-300x199.png 300w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-poodle-416x276.png 416w, https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/10/cho-poodle.png 600w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&nbsp;</p>
+<p><strong>Lưu ý:</strong> Tuyệt đối không cho chó con ăn các đồ ăn cứng như xương lợn, gà, cá…, các loại thức ăn từ nội tạng động vật và đồ ăn cay nóng, ôi thiu. Ngay khi thấy Poodle có các triệu chứng bất thường như buồn nôn, bỏ ăn, lờ đờ, tiêu chảy, lập tức dừng cho ăn và liên lạc ngay với bác sĩ thú y để có phương án chẩn đoán và chữa trị kịp thời.</p>
+<p><img loading="lazy" class="size-full wp-image-1480 aligncenter" src="https://lenangthu.github.io/mywordpress/wp-content/uploads/2022/09/tai-hinh-dong-de-thuong-gif-meo-dang-yeu-600x600-1.gif" alt="" width="600" height="600" /></p>
+<p>&nbsp;</p>
+<p style="margin: 0px 0px 1.41575em;">
+]]></content:encoded>
 					
+					<wfw:commentRss>https://lenangthu.github.io/mywordpress/cho-re-tren-cho-tot-thu-cung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
