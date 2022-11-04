@@ -11,11 +11,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/10-giong-cho-re-cho-tot-thu-cung/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lenangthu.github.io/mywordpress/10-giong-cho-re-cho-tot-thu-cung/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 02 Nov 2022 00:33:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Nov 2022 00:20:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
-</channel>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		Bởi: Nguyễn Minh Đức		</title>
+		<link>https://lenangthu.github.io/mywordpress/10-giong-cho-re-cho-tot-thu-cung/#comment-47</link>
+
+		<dc:creator><![CDATA[Nguyễn Minh Đức]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2022 00:20:56 +0000</pubDate>
+		<guid isPermaLink="false">https://lenangthu.github.io/mywordpress/?p=79#comment-47</guid>
+
+					<description><![CDATA[Bài viết này rất hữu ích!!]]></description>
+			<content:encoded><![CDATA[<p>Bài viết này rất hữu ích!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
